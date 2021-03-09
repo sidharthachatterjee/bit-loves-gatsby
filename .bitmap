@@ -3,7 +3,7 @@
 {
     "header": {
         "scope": "",
-        "version": "0.0.1",
+        "version": "",
         "mainFile": "index.ts",
         "rootDir": "src/components/Header"
     },

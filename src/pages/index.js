@@ -1,6 +1,6 @@
 import * as React from "react";
 
-import Header from "@sidharthachatterjee/gatsby.header/dist/Header";
+import Header from "@sidharthachatterjee/gatsby.header";
 
 // markup
 const IndexPage = () => {
